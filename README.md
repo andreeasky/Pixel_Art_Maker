@@ -25,9 +25,9 @@ The user can create a canvas of any (reasonable) size. This project is done in J
 Code quality of this project:
 
 
-- The script.js JavaScript code works with the provided HTML and CSS files for this project.
+- The JavaScript code works with the provided HTML and CSS files for this project.
 
-- The script.js file is properly linked to the HTML file, and loading the HTML file shows the correct functionality for the application.
+- The JavaScript file is properly linked to the HTML file, and loading the HTML file shows the correct functionality for the application.
 
 - Code is neatly formatted and commented.
 
