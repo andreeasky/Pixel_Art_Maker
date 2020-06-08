@@ -1,6 +1,9 @@
 # Pixel Art Maker
 
+
 Pixel Art Maker project for the "Introduction to Programming" Nanodegree:
+
+
 
 The user can create a canvas of any (reasonable) size. This project is done in JavaScript. 
 
@@ -16,6 +19,7 @@ The user can create a canvas of any (reasonable) size. This project is done in J
 - The user can reset the grid to a blank state.
 
 - If there are already colored squares in the grid, clicking the Submit button clears them out.
+
 
 
 Code quality of this project:
